@@ -153,7 +153,7 @@ p {
 /*----------------*/
 
 #showcase {
-   background: url(/Images/Black\ Inventors\ Main.jpeg) no-repeat 
+   background: url(../Images/Black\ Inventors\ Main.jpeg) no-repeat 
    center center/cover;
    height: 1200px;
 }
@@ -185,7 +185,7 @@ p {
 #home-info .info-img {
    float: left;
    width: 50%;
-   background: url(/Images/Black\ Inventors.png) no-repeat;
+   background: url(../Images/Black\ Inventors.png) no-repeat;
    min-height: 100%;
    padding-top: 5px;
 }
@@ -237,7 +237,7 @@ p {
 
 #testimonials {
    height: 100%;
-   background: url('/Images/US\ Trademark\ and\ Pattent\ Office.jpg') no-repeat center center/cover;
+   background: url(../Images/US\ Trademark\ and\ Pattent\ Office.jpg) no-repeat center center/cover;
    padding-top: 100px;
 
 }
@@ -267,7 +267,7 @@ p {
 /*--------------------*/
 
 #Jennings {
-   background: url(/Images/thomas_jennings.jpeg) no-repeat 
+   background: url(../Images/thomas_jennings.jpeg) no-repeat 
    center center/cover;
    height: 1500px;
 }
@@ -295,7 +295,7 @@ p {
 #home-info .Jennings-img {
    float: right;
    width: 50%;
-   background: url(/Images/Dry\ Scouring.jpeg) no-repeat;
+   background: url(../Images/Dry\ Scouring.jpeg) no-repeat;
    min-height: 100%;
    padding-top: 5px;
 }
@@ -316,7 +316,7 @@ p {
 #home-info .Slavery-img {
    float: right;
    width: 50%;
-   background: url(/Images/Slavery) no-repeat;
+   background: url(../Images/Slavery) no-repeat;
    min-height: 100%;
    padding-top: 5px;
 }
